@@ -1,0 +1,45 @@
+:root
+{
+	--puc-color: #002d65;
+}
+
+body
+{
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+h1
+{
+	font-size: 32px;
+	color: var(--puc-color);
+	text-align: center;
+}
+
+a
+{
+	color: var(--puc-color);
+}
+
+.banner
+{
+	background-color: var(--puc-color);
+	text-align: center;
+}
+
+#logo
+{
+	padding-top: 14px;
+	width: 400px;
+}
+
+#content
+{
+	margin: 40px;
+}
+
+.section
+{
+	padding: 10px 0;
+}
